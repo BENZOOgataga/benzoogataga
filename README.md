@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on @FlazeBot
+- 🔭 I’m currently working on [FlazeBot](https://github.com/flazebot)
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Minecraft servers projects. (plugin configuration)
 - 😄 Pronouns: He/him
