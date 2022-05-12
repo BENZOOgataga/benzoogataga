@@ -1,4 +1,4 @@
-### Hello there 😉
+## Hello there 😉
 • Let me introduce myself, my first name is Louis and I love Internet! I've worked on many projects before and I'm currently working on [@FlazeBot](https://github.flazebot.com), my favorite by far. I'm a fellow user of [Visual Studio Code](https://code.visualstudio.com/) and [PyCharm Professional](https://www.jetbrains.com/fr-fr/pycharm/).  
 
 ## Wanna find me?
