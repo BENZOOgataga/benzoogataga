@@ -10,6 +10,6 @@ Check my [Twitter](https://twitter.com/BENZOOgataga), [YouTube](https://www.yout
 
 ### 🚩 My current projects?  
 • [FlazeBot](https://flazebot.com/), where i'm Co-Owner and I manage a lot of things there. The Owner of FlazeBot is my friend [@chredeur0](https://github.com/chredeur0) 😀  
-• [Furiozia](https://github.com/furiozia) (Very rarely, quite discontinued 😅)  
+• [My life](https://youtu.be/dQw4w9WgXcQ), not gonna lie, this is a big project.
 
 Thank you for visiting my profile, Cia' ! Also I forgot, visit my [portfolio](https://youtu.be/dQw4w9WgXcQ)!
