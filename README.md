@@ -1,5 +1,5 @@
 ## [Hello there](https://youtu.be/rEq1Z0bjdwc) 😉  
-Let me introduce myself, my first name is Louis and I love Internet! I've worked on many projects before and I'm currently working on [@FlazeBot](https://github.flazebot.com), my favorite by far. I'm a fellow user of [Visual Studio Code](https://code.visualstudio.com/) and [PyCharm Professional](https://www.jetbrains.com/fr-fr/pycharm/). Also I loooove [Sublime Text](https://www.sublimetext.com/)! Go check my friend's GitHub page [here](https://github.com/chredeur0)
+Let me introduce myself, my first name is Louis and I love Internet! I've worked on many projects before and I'm currently working on [@FlazeBot](https://github.flazebot.com), my favorite by far. I'm a fellow user of [Visual Studio Code](https://code.visualstudio.com/) and [PyCharm Professional](https://www.jetbrains.com/fr-fr/pycharm/). Also I loooove [Sublime Text](https://www.sublimetext.com/)! Go check my friend's GitHub page [here](https://github.com/chredeur)
 
 ### 🔗 Wanna find me?  
 Check my [Twitter](https://twitter.com/BENZOOgataga), [YouTube](https://www.youtube.com/channel/UCvyKZpGR4oEHAcDyImHksIA), [Twitch](https://www.twitch.tv/benzoogataga_), [Instagram](https://www.instagram.com/benzoogataga/) or [Discord](https://discords.com/bio/p/benzoogataga) (Add "benzoogataga")!  
