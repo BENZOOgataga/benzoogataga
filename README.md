@@ -1,6 +1,6 @@
 
 # Hi 👋 I am BENZOOgataga! 
-I am a network engineer student at [EFREI](https://efrei.fr/) (French School of General Digital Engineering), where I specialize in computer science.
+I am a student at [EFREI](https://efrei.fr/) (French School of General Digital Engineering), where I specialize in network engineering.
 
 - ⚙️ Visit my profesionnal [portfolio website](https://benzoogataga.com/) for professional-related projects.
 - 🌐 Visit my personal [portfolio website](https://benzoogataga.com/) for game-related projects.
