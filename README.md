@@ -6,6 +6,8 @@ I am a network engineer student at [EFREI](https://efrei.fr/) (French School of 
 - 🌐 Visit my personal [portfolio website](https://benzoogataga.com/) for game-related projects.
 - ✍️ Follow me on [LinkedIn](https://www.linkedin.com/in/louismorice/)!  
 
+---
+
 <p align="center">
   <img src="https://profile-counter.glitch.me/BENZOOgataga/count.svg" alt="visitor badge"/><br>
   People visited my page 😎
