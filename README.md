@@ -9,7 +9,8 @@ I am a network engineer student at [EFREI](https://efrei.fr/) (French School of 
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/BENZOOgataga/count.svg">
+  <img src="https://profile-counter.glitch.me/BENZOOgataga/count.svg"><br>
+  people visited my GitHub profile 😎
 </p>
   
 ---
