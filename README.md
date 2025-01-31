@@ -8,6 +8,7 @@ I am a network engineer student at [EFREI](https://efrei.fr/) (French School of 
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/BENZOOgataga/count.svg" alt="visitor badge"/>
+  People visited my page 😎
 </p>
 
 ---
