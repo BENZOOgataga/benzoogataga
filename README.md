@@ -1,7 +1,16 @@
-Hi, I'm BENZOOgataga, passionate about tech and creator of many projects. I use tools like Visual Studio Code, PyCharm, and Sublime Text. I code in Python, JavaScript, Java, HTML, and CSS. I wouldn't call myself a developer but rather a network engineer.
 
-Check out my personal [portfolio](https://benzoogataga.com/) and also my [professional one](https://louismorice.fr)!
+# Hi 👋 I am BENZOOgataga! 
+I am a network engineer student at [EFREI](https://efrei.fr/) (French School of General Digital Engineering), where I specialize in computer science.
 
-![BENZOOgataga's GitHub stats](https://github-readme-stats.vercel.app/api?username=BENZOOgataga)  
+- ⚙️ Visit my profesionnal [portfolio website](https://benzoogataga.com/) for professional-related projects.
+- 🌐 Visit my personal [portfolio website](https://benzoogataga.com/) for game-related projects.
+- ✍️ Follow me on [LinkedIn](https://www.linkedin.com/in/louismorice/)!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BENZOOgataga)  
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BENZOOgataga&show_icons=true&theme=dark" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BENZOOgataga&theme=dark&hide_border=true" width="400">
+</p>
+
+---
