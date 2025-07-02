@@ -154,29 +154,46 @@ Production-ready Ansible script to integrate Debian servers into an Active Direc
   
 ---
 
-### 🏷️ Tech & Tools Badges
+### 🧙‍♂️ Badge Goblin Zone
 
-<!-- Education & Dev -->
+I’m not a dev, I’m not a sysadmin... I’m a badge hoarder.  
+These are my trophies. Don't question them. Just admire the colors.
+
+#### 🏫 Education & IDEs
 [![EFREI](https://img.shields.io/badge/EFREI-Paris-blue?style=flat-square&logo=academia&logoColor=white)](https://eng.efrei.fr/)
 [![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![JetBrains](https://img.shields.io/badge/JetBrains-Toolbox-000000?style=flat-square&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/toolbox-app/)
 
-<!-- Sysadmin -->
+#### 🧰 Infra & Automation
 [![Proxmox](https://img.shields.io/badge/Proxmox-VE-orange?style=flat-square&logo=proxmox&logoColor=white)](https://www.proxmox.com/)
 [![Debian](https://img.shields.io/badge/Debian-12-A81D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
-[![Docker](https://img.shields.io/badge/Docker-active-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Docker](https://img.shields.io/badge/Docker-containerized-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Ansible](https://img.shields.io/badge/Ansible-automated-black?style=flat-square&logo=ansible&logoColor=white)](https://www.ansible.com/)
+[![Pterodactyl](https://img.shields.io/badge/Pterodactyl-panel-7289DA?style=flat-square&logo=pterodactyl&logoColor=white)](https://pterodactyl.io/)
 
-<!-- Gaming & Creative -->
+#### 🧪 Monitoring, VPN & Net
+[![Grafana](https://img.shields.io/badge/Grafana-Dashboards-F46800?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com/)
+[![Prometheus](https://img.shields.io/badge/Prometheus-Metrics-orange?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/)
+[![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-selfhosted-7E3ACE?style=flat-square)](https://github.com/louislam/uptime-kuma)
+[![Tailscale](https://img.shields.io/badge/Tailscale-zero_trust-0061ff?style=flat-square&logo=tailscale&logoColor=white)](https://tailscale.com)
+[![OpenVPN](https://img.shields.io/badge/OpenVPN-connect-orange?style=flat-square&logo=openvpn&logoColor=white)](https://openvpn.net)
+
+#### 🕹️ Gaming & Fun
 [![Minecraft](https://img.shields.io/badge/Minecraft-Modded-62b47a?style=flat-square&logo=minecraft&logoColor=white)](https://github.com/IndustriumMC)
+[![Rust](https://img.shields.io/badge/Rust-Survival-000000?style=flat-square&logo=rust&logoColor=white)]()
+[![Satisfactory](https://img.shields.io/badge/Satisfactory-FICSIT-yellow?style=flat-square&logo=nintendo-switch&logoColor=white)]()
 [![RPG Lover](https://img.shields.io/badge/RPG-Lover-red?style=flat-square&logo=googlegames&logoColor=white)]()
-[![YouTube](https://img.shields.io/badge/YouTube-Personal_Projects-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/)
-[![Adobe](https://img.shields.io/badge/Adobe-Creative_Stuff-FF0000?style=flat-square&logo=adobe&logoColor=white)](https://www.adobe.com/)
+[![LyraStudio](https://img.shields.io/badge/LyraStudio-Dev_Team-purple?style=flat-square)](https://github.com/LyraDevStudio)
 
-<!-- Privacy & Network -->
-[![Brave](https://img.shields.io/badge/Browser-Brave-orange?style=flat-square&logo=brave&logoColor=white)](https://brave.com)
-[![Tailscale](https://img.shields.io/badge/Tailscale-Mesh_Networking-0061ff?style=flat-square&logo=tailscale&logoColor=white)](https://tailscale.com)
-[![OpenVPN](https://img.shields.io/badge/OpenVPN-enabled-orange?style=flat-square&logo=openvpn&logoColor=white)](https://openvpn.net)
+#### 🎨 Design & Content
+[![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/)
+[![Premiere](https://img.shields.io/badge/Adobe-Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)](https://www.adobe.com/)
+[![Paint.NET](https://img.shields.io/badge/Paint.NET-better_than_you_think-lightgrey?style=flat-square)](https://www.getpaint.net/)
+[![YouTube](https://img.shields.io/badge/YouTube-Memes_and_Mods-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/)
 
----
+#### 🛡️ Browser & Privacy
+[![Brave](https://img.shields.io/badge/Brave-I_block_ads-orange?style=flat-square&logo=brave&logoColor=white)](https://brave.com)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-DNS_FTW-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 
+> Badge Goblin status: ✅ Unlocked.  
+> Keep scrolling, the madness doesn't stop here.
