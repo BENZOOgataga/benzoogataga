@@ -44,7 +44,7 @@ Each name is carefully chosen to reflect the role and nature of the device while
 | TOLGEE       | LXC (156) | Localization service              | SRV-BASTION               | Lightweight use, local dev                   |
 | GRAFANA      | LXC (170) | Monitoring                        | SRV-BASTION               | Low resource usage                           |
 | POSTGRESQL   | VM (164)  | Database                          | SRV-BASTION               | Local dependencies                           |
-| PGINX        | VM (165)  | Reverse proxy                     | SRV-BASTION               | Complex migration, hosts several sites       |
+| PNGINX        | VM (165)  | Reverse proxy                     | SRV-BASTION               | Complex migration, hosts several sites       |
 | PNEXTCLOUD   | VM (168)  | Personal cloud                    | SRV-BASTION               | Controlled load, no expected overload        |
 | POPENVPN     | VM (162)  | VPN access to local network       | SRV-BASTION               | Must remain close to LAN                     |
 | LAB          | VM (175)  | Testing environment               | SRV-BASTION               | Internal use only                            |
