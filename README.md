@@ -99,7 +99,7 @@ Production-ready Ansible script to integrate Debian servers into an Active Direc
 | Motherboard         | Asus TUF B450-PRO GAMING                                                      |
 | RAM                 | 32 GB Corsair Vengeance LPX DDR4 3200MHz (4x8GB)                              |
 | GPU                 | MSI RTX 3060 VENTUS 2X OC 12GB GDDR6                                          |
-| Storage             | Samsung 980 PRO 2TB (NVMe), Seagate Barracuda 4TB (HDD)                       |
+| Storage             | C: Samsung 980 PRO 2TB (NVMe) • D: SSD 1TB (games) • E: HDD 1TB (apps) • F: HDD 4TB (games) • G: SSD 240GB (old main), including several old drives repurposed for long-term storage and flexibility |
 | PSU                 | be quiet! Power Zone 650W 80PLUS Bronze                                       |
 | CPU Cooler          | Cooler Master MasterLiquid ML240L V2 RGB                                      |
 | Virtualization      | VBS + Hyper-V enabled (used for lab/test)                                     |
