@@ -67,6 +67,7 @@ Production-ready Ansible script to integrate Debian servers into an Active Direc
 | Dev & Infra  | VS Code, JetBrains IDEs (Toolbox), Git, GitHub Desktop, MobaXterm, Terminal (SSH), FileZilla, OpenVPN |
 | Organization | Trello, Outline (self-hosted), Confluence                                          |
 | Creative     | Adobe Photoshop, Adobe Premiere Pro, Paint.NET                        |
+  
 [![Brave](https://img.shields.io/badge/browser-brave-orange?logo=brave)](https://brave.com)
 
 ---
