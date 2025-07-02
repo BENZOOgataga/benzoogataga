@@ -11,6 +11,7 @@ I'm a student at [EFREI](https://eng.efrei.fr/) (French School of General Digita
 [![LyraStudio](https://img.shields.io/badge/org-LyraStudio-purple?logo=github)](https://github.com/LyraDevStudio)
 [![Website](https://img.shields.io/badge/website-benzoogataga.com-0a0a0a?style=flat-square&logo=about-dot-me&logoColor=white)](https://benzoogataga.com)
 [![Discord - benzoogataga](https://img.shields.io/badge/Discord-benzoogataga-7289da?style=flat-square&logo=discord&logoColor=white)](https://guns.lol/benzoogataga)
+[![Proxmox](https://img.shields.io/badge/proxmox-powered-orange?style=flat-square&logo=proxmox&logoColor=white)](https://www.proxmox.com/)
 [![Mail](https://img.shields.io/badge/email-contact@benzoogataga.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@benzoogataga.com)
 
 ---
