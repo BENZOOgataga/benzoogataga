@@ -14,7 +14,7 @@ I'm a student at [EFREI](https://efrei.fr/) (French School of General Digital En
 - 🔧 Automate everything with **Bash** and **Ansible**
 - 📊 Deploy and configure **monitoring tools** like Prometheus, Grafana, and Uptime Kuma
 - 🕹️ Maintain and optimize **modded and custom game servers** (Minecraft, Rust, Satisfactory...)
-- 🔐 Secure and document real-world systems (e.g. AD integration on Debian at SEMMARIS)
+- 🔐 Secure and document real-world systems (e.g. AD integration on Debian at [SEMMARIS](https://www.rungisinternational.com/decouvrir/missions))
 
 ---
 
