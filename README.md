@@ -9,7 +9,7 @@ I'm a student at [EFREI](https://eng.efrei.fr/) (French School of General Digita
 
 [![IndustriumMC](https://img.shields.io/badge/org-IndustriumMC-blue?logo=github)](https://github.com/IndustriumMC)
 [![LyraStudio](https://img.shields.io/badge/org-LyraStudio-purple?logo=github)](https://github.com/LyraDevStudio)
-[![benzoogataga - GitHub](https://img.shields.io/badge/-benzoogataga-black?style=flat-square&logo=github&logoColor=white)](https://github.com/BENZOOgataga)
+[![Website](https://img.shields.io/badge/website-benzoogataga.com-0a0a0a?style=flat-square&logo=about-dot-me&logoColor=white)](https://benzoogataga.com)
 [![Discord - benzoogataga](https://img.shields.io/badge/Discord-benzoogataga-7289da?style=flat-square&logo=discord&logoColor=white)](https://guns.lol/benzoogataga)
 [![Mail](https://img.shields.io/badge/email-contact@benzoogataga.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@benzoogataga.com)
 
