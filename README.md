@@ -44,7 +44,7 @@ Production-ready Ansible script to integrate Debian servers into an Active Direc
 | Monitoring      | Prometheus, Grafana, Uptime Kuma                  |
 | CI/CD & Tools   | Git, GitHub Actions, Pterodactyl API               |
 | Game Servers    | Minecraft (Spigot, Paper, Forge, Magma, Mohist, Arclight, ...), Rust, Satisfactory, Garry's Mod, and more |
-| Discord Bots    | Node.js, Discord.py, Slash commands, custom APIs  |
+| Discord Bots    | Discord.py, Slash commands, custom APIs  |
 
 ---
 
