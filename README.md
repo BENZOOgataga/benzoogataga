@@ -78,7 +78,7 @@ Production-ready Ansible script to integrate Debian servers into an Active Direc
 
 ## 🗂️ Other Projects
 
-- **[LyraStudio](https://lyra.benzoogataga.com)**: I'm the founder of LyraStudio, an indie dev team working on RPG games, tools, and bots. GitHub organization available [here](https://github.com/LyraDevStudio).
+- **[LyraStudio](https://lyra.benzoogataga.com)**: I'm the founder of LyraStudio, an indie dev team working on RPG games, tools, and bots. GitHub organization [available here](https://github.com/LyraDevStudio).
 - **[Pastanetwork](https://pastanetwork.com)**: former lead designer, now external web design collaborator
 - **FlazeBot**: Discord radio-based bot. Now closed.
 - **[Industrium](https://industrium.net)** (formerly Flaze SMP): modded Minecraft experience with infrastructure and company systems. GitHub organization [available here](https://github.com/IndustriumMC).
