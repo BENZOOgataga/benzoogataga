@@ -4,8 +4,9 @@ I'm a student at [EFREI](https://efrei.fr/) (French School of General Digital En
 
 - ⚙️ Visit my professional [portfolio website](https://benzoogataga.com/) for infra-related projects.
 - 🌐 Visit my personal [portfolio website](https://benzoogataga.com/) for more personal, game-related creations.
-- ✍️ I voluntarily won't share my LinkedIn profile as it's primarily French content!
-
+- ✍️ I voluntarily don't share my LinkedIn here as it's mostly in French.
+> **Note:** I'm not a software developer. My projects focus on infrastructure, bots, and systems, not code volume or GitHub scoring.
+  
 ---
 
 ## 💼 What I Do
@@ -56,6 +57,9 @@ Production-ready Ansible script to integrate Debian servers into an Active Direc
 - **[Industrium](https://industrium.net)** (formerly Flaze SMP): modded Minecraft experience with infrastructure and company systems. GitHub organization [available here](https://github.com/IndustriumMC).
 - **[DeepSearch](https://github.com/BENZOOgataga/DeepSearch/)**: advanced Discord bot that indexes and searches messages by term with rich filters and options
 - **Lyra Bot** *(in development)*: RPG-themed Discord bot by me and LyraStudio, combining lore, progression, and text-based gameplay
+
+> ⚠️ Many of my projects are infrastructure-focused and may not show strong GitHub score metrics.  
+> These repos are mainly here for documentation and sharing purposes.
 
 ---
 
