@@ -6,7 +6,19 @@ I'm a student at [EFREI](https://efrei.fr/) (French School of General Digital En
 - 🌐 Visit my personal [portfolio website](https://benzoogataga.com/) for more personal, game-related creations.
 - ✍️ I voluntarily don't share my LinkedIn here as it's mostly in French.
 > **Note:** I'm not a software developer. My projects focus on infrastructure, bots, and systems, not code volume or GitHub scoring.
-  
+
+[![IndustriumMC](https://img.shields.io/badge/org-IndustriumMC-blue?logo=github)](https://github.com/IndustriumMC)
+[![LyraStudio](https://img.shields.io/badge/org-LyraStudio-purple?logo=github)](https://github.com/LyraDevStudio)
+
+---
+
+## 🛠️ Currently working on
+
+- **[Industrium](https://industrium.net)** (formerly Flaze SMP): modded Minecraft experience with infrastructure and company systems. GitHub organization [available here](https://github.com/IndustriumMC).
+- **Lyra Bot** *(in development)*: RPG-themed Discord bot by me and LyraStudio, combining lore, progression, and text-based gameplay
+- **Server infrastructure upgrades**: improvements to monitoring stacks, DNS handling, and automation pipelines for both Minecraft and web projects.
+- **Internal tools**: CLI and web-based utilities for managing players, companies, plots, and stats in Industrium, designed to assist staff operations and support Discord bot integration.
+
 ---
 
 ## 💼 What I Do
