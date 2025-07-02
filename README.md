@@ -4,7 +4,7 @@ I'm a student at [EFREI](https://efrei.fr/) (French School of General Digital En
 
 - ⚙️ Visit my professional [portfolio website](https://benzoogataga.com/) for infra-related projects.
 - 🌐 Visit my personal [portfolio website](https://benzoogataga.com/) for more personal, game-related creations.
-- ✍️ Follow me on [LinkedIn](https://www.linkedin.com/in/louismorice/)!
+- ✍️ I voluntarily won't share my LinkedIn profile as it's primarily French content!
 
 ---
 
