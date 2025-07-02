@@ -58,6 +58,8 @@ All of these are hosted under the node `SRV-BASTION` (see Proxmox summary).
 
 > 🧠 Several of these containers are development-grade or used occasionally. The full stack is structured, with Prometheus + Uptime Kuma monitoring them.
 
+> 📄 You can also check the [custom naming convention](./naming-convention.md) used for this infrastructure.
+
 ---
 
 ## 🔐 Security & Access
@@ -83,15 +85,15 @@ All of these are hosted under the node `SRV-BASTION` (see Proxmox summary).
 
 ## 🔜 What's Next?
 
-This home server, while reliable, will **not be replaced** but rather repurposed as a dedicated **development and testing platform** for my projects.
+This home server, while reliable, will **remain in use** for development, testing, and staging purposes.  
+However, a **more powerful dedicated server hosted at [Pastanetwork](https://pastanetwork.com)** (codename: `SRV-CITADEL`) will soon take over production workloads:
 
-A more powerful **production server at [Pastanetwork](https://pastanetwork.com)** (codename: `SRV-CITADEL`) will take over public-facing workloads such as:
+- Higher uptime (datacenter-hosted)
+- Redundant power and connectivity
+- Scalable resources for growing demand
+- Separation of stable prod vs dev environments
 
-- Industrium's production game servers
-- Web services and critical infrastructure
-- Resource-intensive or uptime-sensitive applications (Uptime Kuma, Outline, ...)
-
-This separation ensures stable operations for users while keeping flexibility and control for development work on the home server.
+Only resource-intensive services like **Industrium production servers** and public web apps will be migrated, while this server continues powering internal tools and experiments.
 
 ---
 
