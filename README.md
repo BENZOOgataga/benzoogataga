@@ -128,6 +128,9 @@ Production-ready Ansible script to integrate Debian servers into an Active Direc
 | Purpose             | Originally built for homelab, now hosts Industrium infrastructure (VMs, services)   |
 | Next Steps          | Migration planned to a higher-spec dedicated server hosted at Pastanetwork — for better uptime, accessibility, and professionalism |
 
+> 🧠 Want to know more about how this server runs, what services are hosted, and how it's structured?  
+> 👉 Check out the [dedicated markdown page about my home server](./home-server.md).
+
 > 🖥️ You can monitor my server and specific service uptime at [status.benzoogataga.com](https://status.benzoogataga.com)
 
 ---
