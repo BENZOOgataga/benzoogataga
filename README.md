@@ -1,6 +1,6 @@
 # 👋 Hi, I'm BENZOOgataga!
 
-I'm a student at [EFREI](https://efrei.fr/) (French School of General Digital Engineering), where I specialize in **network engineering** and infrastructure systems. Outside of school, I design and manage **production-ready servers**, game server clusters, and self-hosted platforms with automation and monitoring in mind.
+I'm a student at [EFREI](https://eng.efrei.fr/) (French School of General Digital Engineering), where I specialize in **network engineering** and infrastructure systems. Outside of school, I design and manage **production-ready servers**, game server clusters, and self-hosted platforms with automation and monitoring in mind.
 
 - ⚙️ Visit my professional [portfolio website](https://benzoogataga.com/) for infra-related projects.
 - 🌐 Visit my personal [portfolio website](https://benzoogataga.com/) for more personal, game-related creations.
