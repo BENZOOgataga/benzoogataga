@@ -9,6 +9,9 @@ I'm a student at [EFREI](https://eng.efrei.fr/) (French School of General Digita
 
 [![IndustriumMC](https://img.shields.io/badge/org-IndustriumMC-blue?logo=github)](https://github.com/IndustriumMC)
 [![LyraStudio](https://img.shields.io/badge/org-LyraStudio-purple?logo=github)](https://github.com/LyraDevStudio)
+[![benzoogataga - GitHub](https://img.shields.io/badge/-benzoogataga-black?style=flat-square&logo=github&logoColor=white)](https://github.com/BENZOOgataga)
+[![Discord - benzoogataga](https://img.shields.io/badge/Discord-benzoogataga-7289da?style=flat-square&logo=discord&logoColor=white)](https://guns.lol/benzoogataga)
+[![Mail](https://img.shields.io/badge/email-contact@benzoogataga.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@benzoogataga.com)
 
 ---
 
@@ -118,7 +121,7 @@ Production-ready Ansible script to integrate Debian servers into an Active Direc
 | RAM                 | 64 GB DDR4 3200 MHz                                                                  |
 | Storage             | 1 TB Samsung 990 PRO (NVMe), 224 GB Patriot Burst (SSD)                             |
 | Network             | Realtek Gigabit Ethernet + virtual 10 Gbps interfaces via Proxmox bridges           |
-| GPU                 | NVIDIA GeForce GTX 555 (only kept for debugging via display, since CPU lacks iGPU) |
+| GPU                 | NVIDIA GeForce GTX 555 (kept only for display/debug use, as the CPU has no iGPU) |
 | Cooling             | Air-cooled (CPU runs ~74°C under high load)                                         |
 | Usage               | Hosts multiple VMs and containers for Industrium, self-hosted apps (Nextcloud, Outline, etc.) |
 | Purpose             | Originally built for homelab, now hosts Industrium infrastructure (VMs, services)   |
@@ -145,7 +148,7 @@ Production-ready Ansible script to integrate Debian servers into an Active Direc
   <img height=150 src="https://github-readme-stats.vercel.app/api?username=BENZOOgataga&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
   <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=BENZOOgataga&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BENZOOgataga&theme=react-dark&bg_color=20232a&hide_border=true" width=688><br>
-  <i>⚠️ My GitHub score doesn’t reflect my actual expertise. I'm not a developer; I focus on infrastructure, bots, and systems.</i>
+  <i>⚠️ GitHub stats don’t reflect my real expertise, I focus on infrastructure, systems, and bots, not commits or stars.</i>
 </p>
   
 ---
