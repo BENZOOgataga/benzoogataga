@@ -153,3 +153,30 @@ Production-ready Ansible script to integrate Debian servers into an Active Direc
 </p>
   
 ---
+
+### 🏷️ Tech & Tools Badges
+
+<!-- Education & Dev -->
+[![EFREI](https://img.shields.io/badge/EFREI-Paris-blue?style=flat-square&logo=academia&logoColor=white)](https://eng.efrei.fr/)
+[![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![JetBrains](https://img.shields.io/badge/JetBrains-Toolbox-000000?style=flat-square&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/toolbox-app/)
+
+<!-- Sysadmin -->
+[![Proxmox](https://img.shields.io/badge/Proxmox-VE-orange?style=flat-square&logo=proxmox&logoColor=white)](https://www.proxmox.com/)
+[![Debian](https://img.shields.io/badge/Debian-12-A81D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
+[![Docker](https://img.shields.io/badge/Docker-active-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Ansible](https://img.shields.io/badge/Ansible-automated-black?style=flat-square&logo=ansible&logoColor=white)](https://www.ansible.com/)
+
+<!-- Gaming & Creative -->
+[![Minecraft](https://img.shields.io/badge/Minecraft-Modded-62b47a?style=flat-square&logo=minecraft&logoColor=white)](https://github.com/IndustriumMC)
+[![RPG Lover](https://img.shields.io/badge/RPG-Lover-red?style=flat-square&logo=googlegames&logoColor=white)]()
+[![YouTube](https://img.shields.io/badge/YouTube-Personal_Projects-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/)
+[![Adobe](https://img.shields.io/badge/Adobe-Creative_Stuff-FF0000?style=flat-square&logo=adobe&logoColor=white)](https://www.adobe.com/)
+
+<!-- Privacy & Network -->
+[![Brave](https://img.shields.io/badge/Browser-Brave-orange?style=flat-square&logo=brave&logoColor=white)](https://brave.com)
+[![Tailscale](https://img.shields.io/badge/Tailscale-Mesh_Networking-0061ff?style=flat-square&logo=tailscale&logoColor=white)](https://tailscale.com)
+[![OpenVPN](https://img.shields.io/badge/OpenVPN-enabled-orange?style=flat-square&logo=openvpn&logoColor=white)](https://openvpn.net)
+
+---
+
