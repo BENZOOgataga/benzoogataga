@@ -27,7 +27,7 @@ I'm a student at [EFREI](https://efrei.fr/) (French School of General Digital En
 - 🔧 Automate everything with **Bash** and **Ansible**
 - 📊 Deploy and configure **monitoring tools** like Prometheus, Grafana, and Uptime Kuma
 - 🕹️ Maintain and optimize **modded and custom game servers** (Minecraft, Rust, Satisfactory...)
-- 🔐 Secure and document real-world systems (e.g. AD integration on Debian at [SEMMARIS](https://www.rungisinternational.com/decouvrir/missions))
+- 🔐 Secure and document real-world systems (e.g., AD integration on Debian at [SEMMARIS](https://www.rungisinternational.com/decouvrir/missions))
 
 ---
 
@@ -77,7 +77,7 @@ Production-ready Ansible script to integrate Debian servers into an Active Direc
 
 ## 📫 Contact
 
-- **Discord**: `benzoogataga`, checkout my [guns.lol profile here](https://guns.lol/benzoogataga)
+- **Discord**: `benzoogataga`, check out my [guns.lol profile here](https://guns.lol/benzoogataga)
 - **Email**: [contact@benzoogataga.com](mailto:contact@benzoogataga.com)
 - **Website**: [benzoogataga.com](https://benzoogataga.com)
 
@@ -94,7 +94,7 @@ Production-ready Ansible script to integrate Debian servers into an Active Direc
   <img height=150 src="https://github-readme-stats.vercel.app/api?username=BENZOOgataga&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
   <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=BENZOOgataga&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BENZOOgataga&theme=react-dark&bg_color=20232a&hide_border=true" width=688><br>
-  <i>⚠️ My GitHub score doesn’t reflect my actual expertise. I'm not a developer, I focus on infrastructure, bots, and systems.</i>
+  <i>⚠️ My GitHub score doesn’t reflect my actual expertise. I'm not a developer; I focus on infrastructure, bots, and systems.</i>
 </p>
   
 ---
