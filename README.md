@@ -59,6 +59,16 @@ Production-ready Ansible script to integrate Debian servers into an Active Direc
 | Game Servers    | Minecraft (Spigot, Paper, Forge, Magma, Mohist, Arclight, ...), Rust, Satisfactory, Garry's Mod, and more |
 | Discord Bots    | Discord.py, Slash commands, custom APIs  |
 
+### 🧰 Daily Tools
+
+| Type         | Tools                                                                 |
+|--------------|------------------------------------------------------------------------|
+| Operating Systems | Windows 11 Pro (main PC), Kali Linux (dual-boot with Windows 11 on desktop) |
+| Dev & Infra  | VS Code, JetBrains IDEs (Toolbox), Git, GitHub Desktop, MobaXterm, Terminal (SSH), FileZilla, OpenVPN |
+| Organization | Trello, Outline (self-hosted), Confluence                                          |
+| Creative     | Adobe Photoshop, Adobe Premiere Pro, Paint.NET                        |
+[![Brave](https://img.shields.io/badge/browser-brave-orange?logo=brave)](https://brave.com)
+
 ---
 
 ## 🗂️ Other Projects
@@ -72,6 +82,46 @@ Production-ready Ansible script to integrate Debian servers into an Active Direc
 
 > ⚠️ Many of my projects are infrastructure-focused and may not show strong GitHub score metrics.  
 > These repos are mainly here for documentation and sharing purposes.
+
+---
+
+### 🖥️ My Hardware Setup
+
+| Component           | Specs / Model                                                                 |
+|---------------------|-------------------------------------------------------------------------------|
+| OS                  | Windows 11 Pro 64-bit (Build 26100)                                           |
+| CPU                 | AMD Ryzen 7 5700X (8-Core)                                                    |
+| Motherboard         | Asus TUF B450-PRO GAMING                                                      |
+| RAM                 | 32 GB Corsair Vengeance LPX DDR4 3200MHz (4x8GB)                              |
+| GPU                 | MSI RTX 3060 VENTUS 2X OC 12GB GDDR6                                          |
+| Storage             | Samsung 980 PRO 2TB (NVMe), Seagate Barracuda 4TB (HDD)                       |
+| PSU                 | be quiet! Power Zone 650W 80PLUS Bronze                                       |
+| CPU Cooler          | Cooler Master MasterLiquid ML240L V2 RGB                                      |
+| Virtualization      | VBS + Hyper-V enabled (used for lab/test)                                     |
+| Audio Interface     | Komplete Audio 1 + Shure SM7B (Rode PSA1 arm)                                 |
+| Monitors            | Lenovo G27q-30 (27", 165Hz, 2K), Lenovo C27-20 (27", 75Hz), Lenovo L24e (23.8", 60Hz) |
+| Monitor Stand       | EasyMount Triple Monitor Stand                                                |
+| Keyboard            | Razer Ornata Chroma                                                           |
+| Mouse               | Logitech G502 HERO Wireless                                                   |
+| Mousepad            | Corsair MM300                                                                 |
+| Headphones          | Beyerdynamic DT-770 Pro                                                       |
+| Controller          | Xbox One Controller                                                           |
+
+### 🖧 Home Server Setup
+
+| Component           | Specs / Configuration                                                               |
+|---------------------|--------------------------------------------------------------------------------------|
+| OS / Hypervisor     | Proxmox VE (based on Debian 12 Bookworm), kernel 6.8                                |
+| CPU                 | AMD Ryzen 7 5800X (8 Cores / 16 Threads, Zen 3)                                     |
+| Motherboard         | MSI B550-A PRO (MS-7C56)                                                             |
+| RAM                 | 64 GB DDR4 3200 MHz                                                                  |
+| Storage             | 1 TB Samsung 990 PRO (NVMe), 224 GB Patriot Burst (SSD)                             |
+| Network             | Realtek Gigabit Ethernet + virtual 10 Gbps interfaces via Proxmox bridges           |
+| GPU                 | NVIDIA GeForce GTX 555 (only kept for debugging via display, since CPU lacks iGPU) |
+| Cooling             | Air-cooled (CPU runs ~74°C under high load)                                         |
+| Usage               | Hosts multiple VMs and containers for Industrium, self-hosted apps (Nextcloud, Outline, etc.) |
+| Purpose             | Originally built for homelab, now hosts Industrium infrastructure (VMs, services)   |
+| Next Steps          | Migration planned to a higher-spec dedicated server hosted at Pastanetwork — for better uptime, accessibility, and professionalism |
 
 ---
 
