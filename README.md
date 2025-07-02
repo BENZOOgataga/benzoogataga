@@ -85,7 +85,7 @@ Production-ready Ansible script to integrate Debian servers into an Active Direc
 - **[DeepSearch](https://github.com/BENZOOgataga/DeepSearch/)**: advanced Discord bot that indexes and searches messages by term with rich filters and options
 - **Lyra Bot** *(in development)*: RPG-themed Discord bot by me and LyraStudio, combining lore, progression, and text-based gameplay
 
-> ⚠️ Many of my projects are infrastructure-focused and may not show strong GitHub score metrics.  
+> ⚠️ Many of my projects are **infrastructure-focused** and may not show strong GitHub score metrics.  
 > These repos are mainly here for documentation and sharing purposes.
 
 ---
@@ -127,6 +127,8 @@ Production-ready Ansible script to integrate Debian servers into an Active Direc
 | Usage               | Hosts multiple VMs and containers for Industrium, self-hosted apps (Nextcloud, Outline, etc.) |
 | Purpose             | Originally built for homelab, now hosts Industrium infrastructure (VMs, services)   |
 | Next Steps          | Migration planned to a higher-spec dedicated server hosted at Pastanetwork — for better uptime, accessibility, and professionalism |
+
+> 🖥️ You can monitor my server and specific service uptime at [status.benzoogataga.com](https://status.benzoogataga.com)
 
 ---
 
