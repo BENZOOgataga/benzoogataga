@@ -8,7 +8,7 @@ This page documents the architecture, usage, and goals of my home server. While 
 
 | Component           | Description                                                                          |
 |---------------------|--------------------------------------------------------------------------------------|
-| **Hostname**        | `SRV-BASTION`                                                                        |
+| **Hostname**        | `SRV-TERRATON`                                                                        |
 | **Hypervisor**      | Proxmox VE 8.3.4 (based on Debian 12 Bookworm)                                       |
 | **CPU**             | AMD Ryzen 7 5800X (8 cores / 16 threads, Zen 3)                                      |
 | **RAM**             | 64 GB DDR4 3200 MHz                                                                  |
@@ -36,7 +36,7 @@ Originally designed for **lab testing**, the server now powers much of the backe
 
 ## 📦 Virtual Machines & Containers
 
-All of these are hosted under the node `SRV-BASTION` (see Proxmox summary).
+All of these are hosted under the node `SRV-TERRATON` (see Proxmox summary).
 
 | ID  | Name           | Type | Description / Usage                                                                 |
 |-----|----------------|------|-------------------------------------------------------------------------------------|

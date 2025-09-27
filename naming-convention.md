@@ -22,7 +22,7 @@ Each name is carefully chosen to reflect the role and nature of the device while
 | Category            | Hostname    | Primary Role / Usage                             | Current Network |
 |---------------------|-------------|--------------------------------------------------|-----------------|
 | Network Router      | NET-NEXUS   | Main router, local network gateway               | LAN (HOST)      |
-| Local Server        | SRV-BASTION | Development, local hosting, various services     | LAN             |
+| Local Server        | SRV-TERRATON | Development, local hosting, various services     | LAN             |
 | Remote Server       | SRV-CITADEL | Datacenter, heavy production, game servers, etc. | DATACENTER      |
 | Main PC             | WRK-AEGIS   | Fixed workstation, multitasking, creative tasks  | LAN             |
 | Personal Laptop     | WRK-NOMAD   | Versatile laptop (work, dev, gaming, browsing)   | N/A             |
@@ -36,18 +36,18 @@ Each name is carefully chosen to reflect the role and nature of the device while
 
 ---
 
-## Distribution of services between SRV-BASTION and SRV-CITADEL
+## Distribution of services between SRV-TERRATON and SRV-CITADEL
 
 | VM/CT Name   | Type      | Service / Role                    | Hosted On                 | Notes                                        |
 |--------------|-----------|-----------------------------------|---------------------------|----------------------------------------------|
-| DYNDNS       | LXC (161) | DNS updater                       | SRV-BASTION               | Requires LAN                                 |
-| TOLGEE       | LXC (156) | Localization service              | SRV-BASTION               | Lightweight use, local dev                   |
-| GRAFANA      | LXC (170) | Monitoring                        | SRV-BASTION               | Low resource usage                           |
-| POSTGRESQL   | VM (164)  | Database                          | SRV-BASTION               | Local dependencies                           |
-| PNGINX        | VM (165)  | Reverse proxy                     | SRV-BASTION               | Complex migration, hosts several sites       |
-| PNEXTCLOUD   | VM (168)  | Personal cloud                    | SRV-BASTION               | Controlled load, no expected overload        |
-| POPENVPN     | VM (162)  | VPN access to local network       | SRV-BASTION               | Must remain close to LAN                     |
-| LAB          | VM (175)  | Testing environment               | SRV-BASTION               | Internal use only                            |
-| PPTERODACTYL | VM (163)  | Game server management panel      | SRV-CITADEL & SRV-BASTION | Production on CITADEL, dev on BASTION        |
+| DYNDNS       | LXC (161) | DNS updater                       | SRV-TERRATON               | Requires LAN                                 |
+| TOLGEE       | LXC (156) | Localization service              | SRV-TERRATON               | Lightweight use, local dev                   |
+| GRAFANA      | LXC (170) | Monitoring                        | SRV-TERRATON               | Low resource usage                           |
+| POSTGRESQL   | VM (164)  | Database                          | SRV-TERRATON               | Local dependencies                           |
+| PNGINX        | VM (165)  | Reverse proxy                     | SRV-TERRATON               | Complex migration, hosts several sites       |
+| PNEXTCLOUD   | VM (168)  | Personal cloud                    | SRV-TERRATON               | Controlled load, no expected overload        |
+| POPENVPN     | VM (162)  | VPN access to local network       | SRV-TERRATON               | Must remain close to LAN                     |
+| LAB          | VM (175)  | Testing environment               | SRV-TERRATON               | Internal use only                            |
+| PPTERODACTYL | VM (163)  | Game server management panel      | SRV-CITADEL & SRV-TERRATON | Production on CITADEL, dev on TERRATON        |
 | SENTINEL     | VM (169)  | Uptime Kuma monitoring            | SRV-CITADEL (planned)     | Better uptime expected on CITADEL            |
 | APACHE       | VM (176)  | Flaze SMP launcher web service    | SRV-CITADEL (planned)     | Web production, relevant on CITADEL          |
