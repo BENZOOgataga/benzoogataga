@@ -35,21 +35,6 @@ I'm a student at [EFREI](https://eng.efrei.fr/) (French School of General Digita
 
 ---
 
-## 🧪 Highlight Projects
-
-### Industrium Infrastructure  
-Public infrastructure for a large-scale Minecraft modded server:
-- Full Docker stack (servers, dashboards, backup system, monitoring)
-- Remote management scripts, role-based access, and metrics
-- Designed for scalability and high uptime
-
-### `join-active-directory.yml`  
-Production-ready Ansible script to integrate Debian servers into an Active Directory domain:
-- Automates `realm join`, sudo group mapping, user home creation, and [LAPS4Linux](https://github.com/schorschii/LAPS4LINUX) configuration.
-- Tested and used in production at [SEMMARIS](https://www.rungisinternational.com/decouvrir/missions) ([Marché de Rungis](https://www.rungisinternational.com/))
-
----
-
 ## 🧠 Skills & Stack
 
 | Category        | Tools / Techs                                     |
@@ -67,7 +52,7 @@ Production-ready Ansible script to integrate Debian servers into an Active Direc
 
 | Type         | Tools                                                                 |
 |--------------|------------------------------------------------------------------------|
-| Operating Systems | Windows 11 Pro (main PC), Kali Linux (dual-boot with Windows 11 on desktop) |
+| Operating Systems | Windows 11 Pro (main PC), Debian (WSL2) |
 | Dev & Infra  | VS Code, JetBrains IDEs (Toolbox), Git, GitHub Desktop, MobaXterm, Terminal (SSH), FileZilla, OpenVPN |
 | Organization | Trello, Outline (self-hosted), Confluence                                          |
 | Creative     | Adobe Photoshop, Adobe Premiere Pro, Paint.NET                        |
@@ -80,13 +65,12 @@ Production-ready Ansible script to integrate Debian servers into an Active Direc
 
 - **[LyraStudio](https://lyra.benzoogataga.com)**: I'm the founder of LyraStudio, an indie dev team working on RPG games, tools, and bots. GitHub organization [available here](https://github.com/LyraDevStudio).
 - **[Pastanetwork](https://pastanetwork.com)**: former lead designer, now external web design collaborator
-- **FlazeBot**: Discord radio-based bot. Now closed.
 - **[Industrium](https://industrium.net)** (formerly Flaze SMP): modded Minecraft experience with infrastructure and company systems. GitHub organization [available here](https://github.com/IndustriumMC).
 - **[DeepSearch](https://github.com/BENZOOgataga/DeepSearch/)**: advanced Discord bot that indexes and searches messages by term with rich filters and options
 - **Lyra Bot** *(in development)*: RPG-themed Discord bot by me and LyraStudio, combining lore, progression, and text-based gameplay
 
 > ⚠️ Many of my projects are **infrastructure-focused** and may not show strong GitHub score metrics.  
-> These repos are mainly here for documentation and sharing purposes.
+> Their repos are mainly here for documentation and sharing purposes.
 
 ---
 
@@ -199,6 +183,3 @@ These are my trophies. Don't question them. Just admire the colors.
 #### 🛡️ Browser & Privacy
 [![Brave](https://img.shields.io/badge/Brave-I_block_ads-orange?style=flat-square&logo=brave&logoColor=white)](https://brave.com)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-DNS_FTW-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
-
-> Badge Goblin status: ✅ Unlocked.  
-> Keep scrolling, the madness doesn't stop here.
