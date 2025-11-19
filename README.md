@@ -150,7 +150,8 @@ These are my trophies. Don't question them. Just admire the colors.
 
 #### 🏫 Education & IDEs
 [![EFREI](https://img.shields.io/badge/EFREI-Paris-blue?style=flat-square&logo=academia&logoColor=white)](https://eng.efrei.fr/)
-[![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=blue)](https://code.visualstudio.com/)
+[![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)
 [![JetBrains](https://img.shields.io/badge/JetBrains-Toolbox-000000?style=flat-square&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/toolbox-app/)
 
 #### 🧰 Infra & Automation
