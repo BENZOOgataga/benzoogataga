@@ -155,7 +155,7 @@ These are my trophies. Don't question them. Just admire the colors.
 
 #### 🧰 Infra & Automation
 [![Proxmox](https://img.shields.io/badge/Proxmox-VE-orange?style=flat-square&logo=proxmox&logoColor=white)](https://www.proxmox.com/)
-[![Debian](https://img.shields.io/badge/Debian-12-A81D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
+[![Debian](https://img.shields.io/badge/Debian-13-A81D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
 [![Docker](https://img.shields.io/badge/Docker-containerized-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Ansible](https://img.shields.io/badge/Ansible-automated-black?style=flat-square&logo=ansible&logoColor=white)](https://www.ansible.com/)
 [![Pterodactyl](https://img.shields.io/badge/Pterodactyl-panel-7289DA?style=flat-square&logo=pterodactyl&logoColor=white)](https://pterodactyl.io/)
@@ -165,7 +165,7 @@ These are my trophies. Don't question them. Just admire the colors.
 [![Prometheus](https://img.shields.io/badge/Prometheus-Metrics-orange?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/)
 [![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-selfhosted-7E3ACE?style=flat-square)](https://github.com/louislam/uptime-kuma)
 [![Tailscale](https://img.shields.io/badge/Tailscale-zero_trust-0061ff?style=flat-square&logo=tailscale&logoColor=white)](https://tailscale.com)
-[![OpenVPN](https://img.shields.io/badge/OpenVPN-connect-orange?style=flat-square&logo=openvpn&logoColor=white)](https://openvpn.net)
+[![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)](https://www.wireguard.com/)
 
 #### 🕹️ Gaming & Fun
 [![Minecraft](https://img.shields.io/badge/Minecraft-Modded-62b47a?style=flat-square&logo=minecraft&logoColor=white)](https://github.com/IndustriumMC)
