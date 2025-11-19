@@ -167,6 +167,7 @@ These are my trophies. Don't question them. Just admire the colors.
 [![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-selfhosted-7E3ACE?style=flat-square)](https://github.com/louislam/uptime-kuma)
 [![Tailscale](https://img.shields.io/badge/Tailscale-zero_trust-0061ff?style=flat-square&logo=tailscale&logoColor=white)](https://tailscale.com)
 [![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)](https://www.wireguard.com/)
+[![OPNsense](https://img.shields.io/badge/OPNsense-E44A20.svg?style=flat-square&logo=OPNsense&logoColor=white)](https://opnsense.org/)
 
 #### 🕹️ Gaming & Fun
 [![Minecraft](https://img.shields.io/badge/Minecraft-Modded-62b47a?style=flat-square&logo=minecraft&logoColor=white)](https://github.com/IndustriumMC)
