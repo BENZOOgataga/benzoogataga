@@ -1,68 +1,77 @@
-# System Naming Convention
+# 📋 System Naming Convention
 
-## Updated for the Terraton + Citadel dual-infrastructure era
-
-This document defines the naming rules and inventory structure used across all personal, professional, and infrastructure devices. With the introduction of **SRV-CITADEL**, now fully hosted at the **Pastanetwork datacenter**, the naming convention ensures clarity and consistency between the homelab and production environments.
-
-> **Warning:** Proxmox VE hostnames must never be renamed after initial setup. Renaming can break clustering, storage paths, SSH trust, and network bindings, potentially requiring physical recovery.
+> Consistent, descriptive naming for all devices across personal, professional, and infrastructure environments.
 
 ---
 
-# 🔤 Hostname Prefix Legend
+## 🏷️ Prefix Legend
 
-* **PRS-** — Personal devices (phones, tablets, wearables, audio gear)
-* **WRK-** — Workstations (PCs, laptops, productivity machines)
-* **SRV-** — Servers (homelab nodes, production nodes, hosted machines)
-* **NET-** — Networking equipment (routers, switches, firewalls)
+| Prefix | Category | Examples |
+|--------|----------|----------|
+| **PRS-** | Personal devices | Phones, tablets, wearables, audio |
+| **WRK-** | Workstations | PCs, laptops, development machines |
+| **SRV-** | Servers | Homelab nodes, production nodes, hosted machines |
+| **NET-** | Network equipment | Routers, switches, firewalls |
 
-Each hostname is selected to be short, unambiguous, and descriptive of the device’s purpose.
+Each hostname is **short, unambiguous, and descriptive** of its primary purpose.
 
----
-
-# 🖥️ System Inventory
-
-| Category        | Hostname     | Primary Role / Usage                                 | Network Location        |
-| --------------- | ------------ | ---------------------------------------------------- | ----------------------- |
-| Router          | NET-NEXUS    | Main router and gateway                              | LAN (Home)              |
-| Homelab Server  | SRV-TERRATON | Development, staging, internal tools                 | LAN (Home)              |
-| Production DC   | SRV-CITADEL  | Datacenter server: production workloads, APIs, games | Pastanetwork Datacenter |
-| Main PC         | WRK-AEGIS    | Daily workstation, gaming, creative work             | LAN (Home)              |
-| Personal Laptop | WRK-NOMAD    | Portable laptop (work, dev, browsing)                | Variable                |
-| iPhone          | PRS-LYNX     | Main phone                                           | N/A                     |
-| iPad            | PRS-ATLAS    | Productivity tablet                                  | N/A                     |
-| AirPods Pro     | PRS-ECHO     | Portable audio                                       | N/A                     |
-| Bose NC700      | PRS-SENTRY   | Noise-cancelling headset                             | N/A                     |
-| Apple Watch S3  | PRS-PULSE    | Daily wearable / notifications                       | N/A                     |
-
-> **SRV-CITADEL now exists in production and is fully deployed at Pastanetwork's datacenter.**
+⚠️ **Important:** Proxmox VE hostnames must never be renamed after initial setup. Renaming breaks clustering, storage paths, SSH trust, and network bindings, potentially requiring physical recovery.
 
 ---
 
-# 🔄 Distribution of Services
+## 🖥️ Device Inventory
 
-The infrastructure is now split between Terraton (homelab) and Citadel (datacenter). Terraton handles testing, staging, local services, and LAN-dependent workloads. Citadel handles all heavy and uptime-critical roles.
+| Device | Hostname | Role | Location |
+|--------|----------|------|----------|
+| Main Router | NET-NEXUS | Gateway & main network | LAN (Home) |
+| Homelab Server | **SRV-TERRATON** | Development, staging, internal tools | LAN (Home) |
+| Production Server | **SRV-CITADEL** | Production workloads, APIs, games | Pastanetwork T3 Datacenter |
+| Daily PC | WRK-AEGIS | Workstation, gaming, creative work | LAN (Home) |
+| Laptop | WRK-NOMAD | Portable work & dev machine | Variable |
+| iPhone | PRS-LYNX | Main phone | N/A |
+| iPad | PRS-ATLAS | Productivity tablet | N/A |
+| AirPods Pro | PRS-ECHO | Portable audio | N/A |
+| Bose Headset | PRS-SENTRY | Noise-cancelling headphones | N/A |
+| Apple Watch | PRS-PULSE | Wearable notifications | N/A |
 
-| Service / VM | Role                               | Hosted On              | Notes                            |
-| ------------ | ---------------------------------- | ---------------------- | -------------------------------- |
-| DYNDNS       | Cloudflare DNS updater             | SRV-TERRATON           | Requires LAN access              |
-| GRAFANA      | Dashboards                         | SRV-TERRATON           | Dev environment only             |
-| POSTGRESQL   | Internal database                  | SRV-TERRATON           | Local integrations               |
-| PNGINX       | Reverse proxy                      | SRV-TERRATON           | Hosts dev websites and tools     |
-| PNEXTCLOUD   | Personal cloud                     | SRV-TERRATON           | Stays local by design            |
-| POPENVPN     | VPN gateway                        | SRV-TERRATON           | Must remain close to the LAN     |
-| LAB          | Testing sandbox                    | SRV-TERRATON           | Temporary isolated workloads     |
-| PPTERODACTYL | Game server manager (panel)        | SRV-CITADEL + TERRATON | Prod on Citadel, dev on Terraton |
-| SENTINEL     | Uptime Kuma monitoring             | SRV-CITADEL            | Requires datacenter-level uptime |
-| APACHE       | Industrium / Flaze SMP web backend | SRV-CITADEL            | Public-facing production service |
-
-> and probably many more not listed as this is dynamic and evolves over the needs of my projects
 ---
 
-# Summary
+## 🚀 Infrastructure Setup
 
-The naming convention now reflects a **dual-infrastructure setup**:
+**Dual-Server Architecture:**
+- **SRV-TERRATON** (Homelab) - Agile development & staging
+- **SRV-CITADEL** (Datacenter) - Reliable production workloads
 
-* **SRV-TERRATON** → Local homelab, staging, dev, internal tools
-* **SRV-CITADEL** → Pastanetwork-hosted datacenter for all production workloads
+This separation ensures **rapid iteration without sacrificing uptime or reliability**.
 
-This clear separation ensures reliability, scalability, and maintainability across all environments while keeping naming clean and predictable.
+---
+
+## 📦 Service Distribution
+
+| Service | Purpose | Primary Host | Notes |
+|---------|---------|--------------|-------|
+| **DYNDNS** | Cloudflare DNS updates | SRV-TERRATON | Requires local LAN access |
+| **GRAFANA** | Infrastructure dashboards | SRV-TERRATON | Development-only metrics |
+| **POSTGRESQL** | Internal databases | SRV-TERRATON | Local integrations |
+| **PNGINX** | Reverse proxy | SRV-TERRATON | Dev websites & utilities |
+| **PNEXTCLOUD** | Personal cloud storage | SRV-TERRATON | Stays local by design |
+| **POPENVPN** | VPN gateway | SRV-TERRATON | Must remain LAN-local |
+| **LAB** | Testing sandbox | SRV-TERRATON | Temporary experiments |
+| **PPTERODACTYL** | Game server manager | SRV-CITADEL + SRV-TERRATON | Prod on SRV-CITADEL, dev on SRV-TERRATON |
+| **SENTINEL** | Uptime monitoring (Kuma) | SRV-CITADEL | Requires datacenter uptime |
+| **APACHE** | Industrium web backend | SRV-CITADEL | Public-facing production |
+
+> *More services exist but aren't listed as the stack is dynamic and evolves with project needs.*
+
+---
+
+## 📝 Summary
+
+This naming convention creates a **clear, scalable infrastructure** that's easy to manage and understand:
+
+✅ **Consistent prefixes** for quick device identification  
+✅ **Logical separation** between homelab and production  
+✅ **Future-proof** as new systems are added  
+✅ **Easy to remember** with descriptive codenames  
+
+The dual-server setup balances **experimentation** (SRV-TERRATON) with **reliability** (SRV-CITADEL).

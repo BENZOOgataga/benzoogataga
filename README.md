@@ -33,7 +33,13 @@ I specialize in **Linux infrastructure design** and automation. From containeriz
 
 ---
 
-## 📫 Contact
+## 📜 Want More Details?
+- **[Home Server Setup](./home-server.md)** - Deep dive into my Proxmox infrastructure, VMs, and self-hosted services
+- **[Naming Convention](./naming-convention.md)** - Standards I use for projects and infrastructure
+
+---
+
+## 📥 Contact
 - **Discord:** `benzoogataga` → [guns.lol/benzoogataga](https://guns.lol/benzoogataga)
 - **Email:** [contact@benzoogataga.com](mailto:contact@benzoogataga.com)
 - **Status:** [status.benzoogataga.com](https://status.benzoogataga.com)

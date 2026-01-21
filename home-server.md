@@ -1,96 +1,84 @@
-# 🏠 Terraton Homelab
+# 🏠 SRV-TERRATON - Home Server
 
-## Hybrid backend powering Industrium and Altitude Interactive
-
-Terraton (**SRV-TERRATON**) began as a personal homelab focused on experimentation and learning. Over time, it evolved into a key part of the backend supporting **Industrium** and **Altitude Interactive**, while still serving as a flexible environment for development, staging, and internal tooling.
+> **Flexible infrastructure backend** for **Industrium** and **Altitude Interactive**, doubling as a personal development lab.
 
 ---
 
-# 🧩 System Overview
+## 🖥️ Hardware Specs
 
-| Component          | Description                                            |
-| ------------------ | ------------------------------------------------------ |
-| **Hostname**       | `SRV-TERRATON`                                         |
-| **Hypervisor**     | Proxmox VE 8.3.4 (Debian 12 Bookworm)                  |
-| **CPU**            | AMD Ryzen 7 5800X (8 cores / 16 threads)               |
-| **RAM**            | 64 GB DDR4 3200 MHz                                    |
-| **Storage**        | 1 TB Samsung 990 PRO (NVMe) + 224 GB Patriot Burst SSD |
-| **GPU**            | NVIDIA GTX 555 *(debug only)*                          |
-| **Cooling**        | Air cooling (~74°C under load)                         |
-| **Virtualization** | LXC + KVM with bridged networking                      |
-| **Network**        | 1 Gbps Realtek NIC + virtual 10 Gbps bridges           |
-
-> The GPU remains in the system solely for local output and emergency debugging.
+| Spec | Details |
+|------|---------|
+| **Hostname** | `SRV-TERRATON` |
+| **Hypervisor** | Proxmox VE 8.3.4 (Debian 12 Bookworm) |
+| **CPU** | AMD Ryzen 7 5800X (8C/16T) |
+| **RAM** | 64 GB DDR4 3200 MHz |
+| **Storage** | 1 TB Samsung 990 PRO (NVMe) + 224 GB Patriot Burst SSD |
+| **GPU** | NVIDIA GTX 555 (debug only) |
+| **Cooling** | Air-cooled (~74°C under load) |
+| **Network** | 1 Gbps Realtek NIC + Virtual 10 Gbps bridges |
 
 ---
 
-# 🧠 Purpose and Role
+## 🎯 What Does It Do?
 
-Terraton acts as a **hybrid backbone** for both personal and project-oriented needs. Its responsibilities include:
+SRV-TERRATON serves as a **hybrid backend** supporting both experimentation and production needs:
 
-* Development and testing environment for internal tools
-* Staging platform for backend components
-* Secondary infrastructure for **Industrium** services
-* Hosting of lightweight workloads for **Altitude Interactive** (bots, web utilities, prototypes)
-* Reverse proxy, monitoring, and storage layer
-
-With the migration of production workloads to `SRV-CITADEL`, Terraton now prioritizes flexibility, modularity, and rapid iteration.
+- 🧪 **Development & Testing** - Sandbox environments for new tools and services
+- 📦 **Staging Platform** - Pre-production testing before datacenter deployment
+- 🎮 **Industrium Services** - Secondary backend components (alongside SRV-CITADEL)
+- 🤖 **Altitude Interactive** - Lightweight hosting for bots, utilities, and prototypes
+- 🔄 **Reverse Proxy & Monitoring** - Internal infrastructure layer
 
 ---
 
-# 📦 Virtual Machines & Containers
+## 🏗️ Current Workloads
 
-Most historical services have been migrated to the datacenter server **SRV-CITADEL**. Terraton now hosts only **light, temporary, or internal** workloads:
+Most production services have migrated to **SRV-CITADEL** (datacenter hosted). SRV-TERRATON now focuses on **lightweight, temporary, and internal** workloads:
 
-* Short-lived development environments
-* Sandbox containers for experiments
-* Staging versions of internal services
-* Supporting infrastructure used during testing cycles
+- Short-lived development environments
+- Experimental sandbox containers
+- Staging versions of backend services
+- Infrastructure tooling during test cycles
 
-The stack remains intentionally minimal and disposable, ensuring quick rebuilds and low operational overhead.
-
----
-
-# 🔐 Security & Access
-
-Terraton enforces a simple but effective security model:
-
-* SSH authentication via key pairs only
-* Cloudflare protection for exposed services (DNS, SSL, Access rules)
-* Proxmox firewall rules + UFW where relevant
-* Regular updates across all nodes
-* Mandatory snapshots before critical changes
+This intentional minimalism ensures quick rebuilds and low maintenance overhead.
 
 ---
 
-# 📈 Monitoring & Backups
+## 🔒 Security & Reliability
 
-Even in its reduced role, Terraton maintains essential observability and backup routines:
+**Access & Authentication:**
+- SSH key-based authentication only
+- Cloudflare protection for exposed services (DNS, SSL, firewall rules)
+- Proxmox firewall + UFW rules per container
+- Regular security updates
 
-* **Uptime Kuma** for service-level availability
-* **Prometheus + Grafana** for infrastructure metrics (development mode)
-* Daily remote backups over SSH
-* Local snapshots for immediate rollbacks
+**Monitoring & Backups:**
+- **Uptime Kuma** for service availability tracking
+- **Prometheus + Grafana** for metrics (development mode)
+- Daily remote backups via SSH
+- Local VM snapshots for instant rollbacks
 
-Public status page: `https://status.benzoogataga.com/status/full`
-
----
-
-# 🔜 Future Direction
-
-As Terraton continues to act as the internal workshop of the ecosystem, **SRV-CITADEL** (hosted at Pastanetwork) carries the production load with:
-
-* Datacenter-grade uptime
-* Redundant power and connectivity
-* Scalable compute and memory
-* Strong separation between production and experimental environments
-
-Both servers complement each other: Terraton for agility and testing, Citadel for reliability and scale.
+📊 **Public Status:** [status.benzoogataga.com](https://status.benzoogataga.com)
 
 ---
 
-# ✍️ Final Notes
+## 🚀 SRV-TERRATON + SRV-CITADEL
 
-This setup represents years of continuous improvements in infrastructure, game hosting, automation, and backend design. While no longer the primary production node, Terraton remains a reliable and versatile engine behind the experimentation and creativity powering Industrium and Altitude Interactive.
+SRV-TERRATON works alongside **SRV-CITADEL**, a professional datacenter server (T3 Pastanetwork):
 
-For discussions or infra-related questions: [benzoogataga](https://guns.lol/benzoogataga) on Discord.
+| | SRV-TERRATON | SRV-CITADEL |
+|---|----------|-------------|
+| **Role** | Dev, staging & experimentation | Primary production backend |
+| **Location** | Home lab | Pastanetwork T3 Datacenter |
+| **Uptime SLA** | Development-grade | Enterprise-grade |
+| **Primary Use** | Testing, iteration, internal tooling | Live Industrium & Altitude Interactive services |
+
+**Result:** Separation of concerns with rapid iteration at home and proven reliability in the datacenter.
+
+---
+
+## 📝 Final Notes
+
+SRV-TERRATON has evolved from a personal hobby lab into a critical piece of the Industrium & Altitude Interactive infrastructure. While no longer primary production, it remains essential for rapid iteration, debugging, and internal tool development.
+
+**Questions?** Hit me up on [Discord](https://guns.lol/benzoogataga) or email [contact@benzoogataga.com](mailto:contact@benzoogataga.com)
