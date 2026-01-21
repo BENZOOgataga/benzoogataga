@@ -4,7 +4,7 @@
 
 Designing production-ready servers, game clusters & self-hosted platforms
 
-🌐 [Portfolio](https://benzoogataga.com) • ⚙️ [Infra Projects](https://louismorice.fr/) • 💼 [Industrium](https://industrium.net) • 🎮 [Altitude Interactive](https://altitude-interactive.com)
+🌐 [Portfolio](https://benzoogataga.com) • ⚙️ [Student Portfolio](https://louismorice.fr/) • 💼 [Industrium](https://industrium.net) • 🎮 [Altitude Interactive](https://altitude-interactive.com)
 
 [![IndustriumMC](https://img.shields.io/badge/org-IndustriumMC-blue?logo=github)](https://github.com/IndustriumMC)
 [![Altitude Interactive](https://img.shields.io/badge/org-AltitudeInteractive-purple?logo=github)](https://github.com/Altitude-Interactive)
