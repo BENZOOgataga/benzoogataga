@@ -1,129 +1,222 @@
-# 👋 Hi, I'm BENZOOgataga!
+<style>
+  :root {
+    color-scheme: dark;
+  }
+  
+  .header {
+    text-align: center;
+    padding: 20px 0;
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    border: 2px solid #667eea;
+    border-radius: 10px;
+    color: #e0e0e0;
+    margin-bottom: 30px;
+  }
+  .header h1 {
+    margin: 0 0 10px 0;
+    font-size: 2.5em;
+    color: #667eea;
+  }
+  .header p {
+    margin: 10px 0;
+    font-size: 1.1em;
+    font-weight: 300;
+    color: #b0b0b0;
+  }
+  .quick-links {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin: 20px 0;
+  }
+  .quick-links a {
+    padding: 8px 16px;
+    background: #2a2a4e;
+    color: #667eea;
+    text-decoration: none;
+    border: 1px solid #667eea;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+    font-weight: 600;
+  }
+  .quick-links a:hover {
+    background: #667eea;
+    color: white;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+  }
+  .section {
+    margin: 30px 0;
+    padding: 20px;
+    border-left: 4px solid #667eea;
+    background: #1a1a2e;
+    border-radius: 5px;
+    border: 1px solid #2a2a4e;
+  }
+  .section h2 {
+    margin-top: 0;
+    color: #667eea;
+  }
+  .section p {
+    color: #b0b0b0;
+  }
+  .section ul li {
+    color: #b0b0b0;
+  }
+  .tech-stack {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 15px;
+  }
+  .tech-badge {
+    background: #2a2a4e;
+    color: #667eea;
+    padding: 5px 12px;
+    border: 1px solid #667eea;
+    border-radius: 20px;
+    font-size: 0.9em;
+    font-weight: 600;
+  }
+  .contact-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .contact-item {
+    padding: 10px;
+    background: #2a2a4e;
+    border: 1px solid #3a3a5e;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: #b0b0b0;
+  }
+  .contact-item strong {
+    color: #667eea;
+  }
+  .contact-item a {
+    color: #667eea;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  .contact-item a:hover {
+    color: #764ba2;
+  }
+  .work-card {
+    margin: 10px 0;
+    padding: 12px;
+    background: #2a2a4e;
+    border: 1px solid #3a3a5e;
+    border-radius: 5px;
+    color: #b0b0b0;
+    transition: all 0.3s ease;
+  }
+  .work-card:hover {
+    border-color: #667eea;
+    box-shadow: 0 4px 12px rgba(102, 126, 234, 0.2);
+  }
+  .work-card strong {
+    color: #667eea;
+  }
+  .work-card a {
+    color: #667eea;
+    text-decoration: none;
+  }
+  .work-card a:hover {
+    color: #764ba2;
+    text-decoration: underline;
+  }
+</style>
 
-I'm a student at [EFREI](https://eng.efrei.fr/) (French School of General Digital Engineering), where I specialize in **network engineering** and infrastructure systems. Outside of school, I design and manage **production-ready servers**, game server clusters, and self-hosted platforms with automation and monitoring in mind.
+<div class="header">
+  <h1>👋 Hi, I'm BENZOOgataga!</h1>
+  <p>Network Engineering Student | Infrastructure Specialist</p>
+  <p>Designing production-ready servers, game clusters & self-hosted platforms</p>
+</div>
 
-- ⚙️ Visit my professional [portfolio website](https://louismorice.fr/) for infra-related projects.
-- 🌐 Visit my personal [portfolio website](https://benzoogataga.com/) for more personal, game-related creations.
-- ✍️ I voluntarily don't share my LinkedIn here as it's mostly in French.
-> **Note:** I'm not a software developer. My projects focus on infrastructure, bots, and systems, not code volume or GitHub scoring.
+<div class="quick-links">
+  <a href="https://benzoogataga.com">🌐 Portfolio</a>
+  <a href="https://louismorice.fr/">⚙️ Infra Projects</a>
+  <a href="https://industrium.net">💼 Industrium</a>
+  <a href="https://altitude-interactive.com">🎮 Altitude Interactive</a>
+</div>
 
+<div style="text-align: center; margin: 20px 0;">
+  
 [![IndustriumMC](https://img.shields.io/badge/org-IndustriumMC-blue?logo=github)](https://github.com/IndustriumMC)
 [![Altitude Interactive](https://img.shields.io/badge/org-AltitudeInteractive-purple?logo=github)](https://github.com/Altitude-Interactive)
 [![Website](https://img.shields.io/badge/website-benzoogataga.com-0a0a0a?style=flat-square&logo=about-dot-me&logoColor=white)](https://benzoogataga.com)
-[![Discord - benzoogataga](https://img.shields.io/badge/Discord-benzoogataga-7289da?style=flat-square&logo=discord&logoColor=white)](https://guns.lol/benzoogataga)
-[![Proxmox](https://img.shields.io/badge/proxmox-powered-orange?style=flat-square&logo=proxmox&logoColor=white)](https://www.proxmox.com/)
+[![Discord](https://img.shields.io/badge/Discord-benzoogataga-7289da?style=flat-square&logo=discord&logoColor=white)](https://guns.lol/benzoogataga)
 [![Mail](https://img.shields.io/badge/email-contact@benzoogataga.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@benzoogataga.com)
 
----
+</div>
 
-## 🛠️ Currently working on
+<div class="section">
+  <h2>🛠️ Currently Working On</h2>
+  <ul style="list-style: none; padding: 0;">
+    <li class="work-card">
+      <strong><a href="https://industrium.net">Industrium</a></strong> - Modded Minecraft with infrastructure & company systems
+    </li>
+    <li class="work-card">
+      <strong>Server upgrades</strong> - Monitoring stacks, DNS, automation pipelines
+    </li>
+    <li class="work-card">
+      <strong>Internal tools</strong> - CLI & web utilities for player/company management
+    </li>
+  </ul>
+</div>
 
-- **[Industrium](https://industrium.net)**: modded Minecraft experience with infrastructure and company systems. GitHub organization [available here](https://github.com/IndustriumMC).
-- **Server infrastructure upgrades**: improvements to monitoring stacks, DNS handling, and automation pipelines for both Minecraft and web projects.
-- **Internal tools**: CLI and web-based utilities for managing players, companies, plots, and stats in Industrium, designed to assist staff operations and support Discord bot integration.
-
----
-
-## 💼 What I Do
-
-- 🖥️ Design and manage **Linux-based infrastructure** (Docker, Nginx, systemd, reverse proxies)
-- 🔧 Automate everything with **Bash** and **Ansible**
-- 📊 Deploy and configure **monitoring tools** like Prometheus, Grafana, and Uptime Kuma
-- 🕹️ Maintain and optimize **modded and custom game servers** (Minecraft, Rust, Satisfactory...)
-- 🔐 Secure and document real-world systems (e.g., AD integration on Debian at [SEMMARIS](https://www.rungisinternational.com/decouvrir/missions))
-
----
-
-## 🧠 Skills & Stack
-
-| Category        | Tools / Techs                                     |
-|----------------|----------------------------------------------------|
-| OS & Infra      | Debian, Ubuntu, Proxmox, LXC, systemd              |
-| Networking      | Nginx, DNS (Cloudflare), UFW, SSL certs            |
-| Containers      | Docker, Docker Compose                            |
-| Automation      | Bash, Ansible                                     |
-| Monitoring      | Prometheus, Grafana, Uptime Kuma                  |
-| CI/CD & Tools   | Git, GitHub Actions, Pterodactyl API               |
-| Game Servers    | Minecraft (Spigot, Paper, Forge, Magma, Mohist, Arclight, ...), Rust, Satisfactory, Garry's Mod, and more |
-| Discord Bots    | Discord.py, Slash commands, custom APIs  |
-
-### 🧰 Daily Tools
-
-| Type         | Tools                                                                 |
-|--------------|------------------------------------------------------------------------|
-| Operating Systems | Windows 11 Pro (main PC), Debian (WSL2) |
-| Dev & Infra  | VS Code, JetBrains IDEs (Toolbox), Git, GitHub Desktop, MobaXterm, Terminal (SSH), FileZilla, OpenVPN |
-| Organization | Trello, Outline (self-hosted), Confluence                                          |
-| Creative     | Adobe Photoshop, Adobe Premiere Pro, Paint.NET                        |
+<div class="section">
+  <h2>💼 What I Do</h2>
+  <p>I specialize in <strong>Linux infrastructure design</strong> and automation. From containerization with Docker to monitoring stacks with Prometheus & Grafana, I build systems that scale.</p>
   
-[![Brave](https://img.shields.io/badge/browser-brave-orange?logo=brave)](https://brave.com)
+  <ul style="list-style: none; padding: 0;">
+    <li style="margin: 8px 0;">🖥️ Infrastructure as Code (Bash, Ansible)</li>
+    <li style="margin: 8px 0;">🕹️ Game server optimization & management</li>
+    <li style="margin: 8px 0;">🤖 Discord bots & automation tools</li>
+    <li style="margin: 8px 0;">🔐 Real-world system security & AD integration</li>
+  </ul>
 
----
+  <p><strong>Tech Stack:</strong></p>
+  <div class="tech-stack">
+    <span class="tech-badge">Debian</span>
+    <span class="tech-badge">Proxmox</span>
+    <span class="tech-badge">Docker</span>
+    <span class="tech-badge">Nginx</span>
+    <span class="tech-badge">GitHub Actions</span>
+    <span class="tech-badge">Pterodactyl</span>
+    <span class="tech-badge">Prometheus</span>
+    <span class="tech-badge">Grafana</span>
+  </div>
+</div>
 
-## 🗂️ Other Projects
-
-- **[Altitude Interactive](https://altitude-interactive.com)**: I'm the founder of Altitude Interactive, an indie dev team working on games, tools, websites, and more. GitHub organization [available here](https://github.com/Altitude-Interactive).
-- **[Pastanetwork](https://pastanetwork.com)**: former lead designer.
-- **[Industrium](https://industrium.net)**: modded Minecraft experience with infrastructure and company systems. GitHub organization [available here](https://github.com/IndustriumMC).
-- **[DeepSearch](https://github.com/BENZOOgataga/DeepSearch/)**: advanced Discord bot that indexes and searches messages by term with rich filters and options.
-
-> ⚠️ Many of my projects are **infrastructure-focused** and may not show strong GitHub score metrics.  
-> Their repos are mainly here for documentation and sharing purposes.
-
----
-
-### 🖥️ My Hardware Setup
-
-| Component           | Specs / Model                                                                 |
-|---------------------|-------------------------------------------------------------------------------|
-| OS                  | Windows 11 Pro 64-bit (Build 26100)                                           |
-| CPU                 | AMD Ryzen 7 5700X (8-Core)                                                    |
-| Motherboard         | Asus TUF B450-PRO GAMING                                                      |
-| RAM                 | 32 GB Corsair Vengeance LPX DDR4 3200MHz (4x8GB)                              |
-| GPU                 | MSI RTX 3060 VENTUS 2X OC 12GB GDDR6                                          |
-| Storage             | C: Samsung 980 PRO 2TB (NVMe) • D: SSD 1TB (games) • E: HDD 1TB (apps) • F: HDD 4TB (games) • G: SSD 240GB (old main), including several old drives repurposed for long-term storage and flexibility |
-| PSU                 | be quiet! Power Zone 650W 80PLUS Bronze                                       |
-| CPU Cooler          | Cooler Master MasterLiquid ML240L V2 RGB                                      |
-| Virtualization      | VBS + Hyper-V enabled (used for lab/test)                                     |
-| Audio Interface     | Komplete Audio 1 + Shure SM7B (Rode PSA1 arm)                                 |
-| Monitors            | Lenovo G27q-30 (27", 165Hz, 2K), Lenovo C27-20 (27", 75Hz), Lenovo L24e (23.8", 60Hz) |
-| Monitor Stand       | EasyMount Triple Monitor Stand                                                |
-| Keyboard            | Razer Ornata Chroma                                                           |
-| Mouse               | Logitech G502 HERO Wireless                                                   |
-| Mousepad            | Corsair MM300                                                                 |
-| Headphones          | Beyerdynamic DT-770 Pro                                                       |
-| Controller          | Xbox One Controller                                                           |
-
-### 🖧 Home Server Setup
-
-| Component           | Specs / Configuration                                                               |
-|---------------------|--------------------------------------------------------------------------------------|
-| OS / Hypervisor     | Proxmox VE (based on Debian 12 Bookworm), kernel 6.8                                |
-| CPU                 | AMD Ryzen 7 5800X (8 Cores / 16 Threads, Zen 3)                                     |
-| Motherboard         | MSI B550-A PRO (MS-7C56)                                                             |
-| RAM                 | 64 GB DDR4 3200 MHz                                                                  |
-| Storage             | 1 TB Samsung 990 PRO (NVMe), 224 GB Patriot Burst (SSD)                             |
-| Network             | Realtek Gigabit Ethernet + virtual 10 Gbps interfaces via Proxmox bridges           |
-| GPU                 | NVIDIA GeForce GTX 555 (kept only for display/debug use, as the CPU has no iGPU) |
-| Cooling             | Air-cooled (CPU runs ~74°C under high load)                                         |
-| Usage               | Hosts multiple VMs and containers for Industrium, self-hosted apps (Nextcloud, Outline, etc.) |
-| Purpose             | Originally built for homelab, now hosts Industrium infrastructure (VMs, services)   |
-| Next Steps          | Migration planned to a higher-spec dedicated server hosted at Pastanetwork — for better uptime, accessibility, and professionalism |
-
-> 🧠 Want to know more about how this server runs, what services are hosted, and how it's structured?  
-> 👉 Check out the [dedicated page about my home server](./home-server.md).
-
-> 🖥️ You can monitor my server and specific service uptime at [status.benzoogataga.com](https://status.benzoogataga.com)
-
----
-
-## 📫 Contact
-
-- **Discord**: `benzoogataga`, check out my [guns.lol profile here](https://guns.lol/benzoogataga)
-- **Email**: [contact@benzoogataga.com](mailto:contact@benzoogataga.com)
-- **Website**: [benzoogataga.com](https://benzoogataga.com)
-
----
+<div class="section">
+  <h2>📫 Contact & Links</h2>
+  <div class="contact-grid">
+    <div class="contact-item">
+      <span style="font-size: 1.2em;">💬</span>
+      <div>
+        <strong>Discord</strong>: <code>benzoogataga</code><br>
+        <a href="https://guns.lol/benzoogataga">View my profile</a>
+      </div>
+    </div>
+    <div class="contact-item">
+      <span style="font-size: 1.2em;">📧</span>
+      <div>
+        <strong>Email</strong>: <a href="mailto:contact@benzoogataga.com">contact@benzoogataga.com</a>
+      </div>
+    </div>
+    <div class="contact-item">
+      <span style="font-size: 1.2em;">📊</span>
+      <div>
+        <strong>Status Page</strong>: <a href="https://status.benzoogataga.com">status.benzoogataga.com</a>
+      </div>
+    </div>
+  </div>
+</div>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/BENZOOgataga/count.svg"><br>
@@ -138,48 +231,3 @@ I'm a student at [EFREI](https://eng.efrei.fr/) (French School of General Digita
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BENZOOgataga&theme=react-dark&bg_color=20232a&hide_border=true" width=688><br>
   <i>⚠️ GitHub stats don’t reflect my real expertise, I focus on infrastructure, systems, and bots, not commits or stars.</i>
 </p>
-  
----
-
-### 🧙‍♂️ Badge Goblin Zone
-
-I’m not a dev, I’m not a sysadmin... I’m a badge hoarder.  
-These are my trophies. Don't question them. Just admire the colors.
-
-#### 🏫 Education & IDEs
-[![EFREI](https://img.shields.io/badge/EFREI-Paris-blue?style=flat-square&logo=academia&logoColor=white)](https://eng.efrei.fr/)
-[![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=blue)](https://code.visualstudio.com/)
-[![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)
-[![JetBrains](https://img.shields.io/badge/JetBrains-Toolbox-000000?style=flat-square&logo=jetbrains&logoColor=white)](https://www.jetbrains.com/toolbox-app/)
-
-#### 🧰 Infra & Automation
-[![Proxmox](https://img.shields.io/badge/Proxmox-VE-orange?style=flat-square&logo=proxmox&logoColor=white)](https://www.proxmox.com/)
-[![Debian](https://img.shields.io/badge/Debian-13-A81D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
-[![Docker](https://img.shields.io/badge/Docker-containerized-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Ansible](https://img.shields.io/badge/Ansible-automated-black?style=flat-square&logo=ansible&logoColor=white)](https://www.ansible.com/)
-[![Pterodactyl](https://img.shields.io/badge/Pterodactyl-panel-7289DA?style=flat-square&logo=pterodactyl&logoColor=white)](https://pterodactyl.io/)
-
-#### 🧪 Monitoring, VPN & Net
-[![Grafana](https://img.shields.io/badge/Grafana-Dashboards-F46800?style=flat-square&logo=grafana&logoColor=white)](https://grafana.com/)
-[![Prometheus](https://img.shields.io/badge/Prometheus-Metrics-orange?style=flat-square&logo=prometheus&logoColor=white)](https://prometheus.io/)
-[![Uptime Kuma](https://img.shields.io/badge/Uptime_Kuma-selfhosted-7E3ACE?style=flat-square)](https://github.com/louislam/uptime-kuma)
-[![Tailscale](https://img.shields.io/badge/Tailscale-zero_trust-0061ff?style=flat-square&logo=tailscale&logoColor=white)](https://tailscale.com)
-[![WireGuard](https://img.shields.io/badge/-WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)](https://www.wireguard.com/)
-[![OPNsense](https://img.shields.io/badge/OPNsense-E44A20.svg?style=flat-square&logo=OPNsense&logoColor=white)](https://opnsense.org/)
-
-#### 🕹️ Gaming & Fun
-[![Minecraft](https://img.shields.io/badge/Minecraft-Modded-62b47a?style=flat-square&logo=minecraft&logoColor=white)](https://github.com/IndustriumMC)
-[![Rust](https://img.shields.io/badge/Rust-Survival-000000?style=flat-square&logo=rust&logoColor=white)]()
-[![Satisfactory](https://img.shields.io/badge/Satisfactory-FICSIT-yellow?style=flat-square&logo=nintendo-switch&logoColor=white)]()
-[![RPG Lover](https://img.shields.io/badge/RPG-Lover-red?style=flat-square&logo=googlegames&logoColor=white)]()
-[![Altitude Interactive](https://img.shields.io/badge/AltitudeInteractive-Team-purple?style=flat-square)](https://github.com/Altitude-Interactive)
-
-#### 🎨 Design & Content
-[![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/)
-[![Premiere](https://img.shields.io/badge/Adobe-Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)](https://www.adobe.com/)
-[![Paint.NET](https://img.shields.io/badge/Paint.NET-better_than_you_think-lightgrey?style=flat-square)](https://www.getpaint.net/)
-[![YouTube](https://img.shields.io/badge/YouTube-Memes_and_Mods-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/)
-
-#### 🛡️ Browser & Privacy
-[![Brave](https://img.shields.io/badge/Brave-I_block_ads-orange?style=flat-square&logo=brave&logoColor=white)](https://brave.com)
-[![Cloudflare](https://img.shields.io/badge/Cloudflare-DNS_FTW-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
