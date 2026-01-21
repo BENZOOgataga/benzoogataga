@@ -2,13 +2,13 @@
 
 I'm a student at [EFREI](https://eng.efrei.fr/) (French School of General Digital Engineering), where I specialize in **network engineering** and infrastructure systems. Outside of school, I design and manage **production-ready servers**, game server clusters, and self-hosted platforms with automation and monitoring in mind.
 
-- ⚙️ Visit my professional [portfolio website](https://benzoogataga.com/) for infra-related projects.
+- ⚙️ Visit my professional [portfolio website](https://louismorice.fr/) for infra-related projects.
 - 🌐 Visit my personal [portfolio website](https://benzoogataga.com/) for more personal, game-related creations.
 - ✍️ I voluntarily don't share my LinkedIn here as it's mostly in French.
 > **Note:** I'm not a software developer. My projects focus on infrastructure, bots, and systems, not code volume or GitHub scoring.
 
 [![IndustriumMC](https://img.shields.io/badge/org-IndustriumMC-blue?logo=github)](https://github.com/IndustriumMC)
-[![LyraStudio](https://img.shields.io/badge/org-LyraStudio-purple?logo=github)](https://github.com/LyraDevStudio)
+[![Altitude Interactive](https://img.shields.io/badge/org-AltitudeInteractive-purple?logo=github)](https://github.com/Altitude-Interactive)
 [![Website](https://img.shields.io/badge/website-benzoogataga.com-0a0a0a?style=flat-square&logo=about-dot-me&logoColor=white)](https://benzoogataga.com)
 [![Discord - benzoogataga](https://img.shields.io/badge/Discord-benzoogataga-7289da?style=flat-square&logo=discord&logoColor=white)](https://guns.lol/benzoogataga)
 [![Proxmox](https://img.shields.io/badge/proxmox-powered-orange?style=flat-square&logo=proxmox&logoColor=white)](https://www.proxmox.com/)
@@ -18,8 +18,8 @@ I'm a student at [EFREI](https://eng.efrei.fr/) (French School of General Digita
 
 ## 🛠️ Currently working on
 
-- **[Industrium](https://industrium.net)** (formerly Flaze SMP): modded Minecraft experience with infrastructure and company systems. GitHub organization [available here](https://github.com/IndustriumMC).
-- **Lyra Bot** *(in development)*: RPG-themed Discord bot by me and LyraStudio, combining lore, progression, and text-based gameplay
+- **[Industrium](https://industrium.net)**: modded Minecraft experience with infrastructure and company systems. GitHub organization [available here](https://github.com/IndustriumMC).
+- **Lyra Bot** *(in development)*: RPG-themed Discord bot by me and Altitude Interactive, combining lore, progression, and text-based gameplay
 - **Server infrastructure upgrades**: improvements to monitoring stacks, DNS handling, and automation pipelines for both Minecraft and web projects.
 - **Internal tools**: CLI and web-based utilities for managing players, companies, plots, and stats in Industrium, designed to assist staff operations and support Discord bot integration.
 
@@ -63,11 +63,11 @@ I'm a student at [EFREI](https://eng.efrei.fr/) (French School of General Digita
 
 ## 🗂️ Other Projects
 
-- **[LyraStudio](https://lyra.benzoogataga.com)**: I'm the founder of LyraStudio, an indie dev team working on RPG games, tools, and bots. GitHub organization [available here](https://github.com/LyraDevStudio).
-- **[Pastanetwork](https://pastanetwork.com)**: former lead designer, now external web design collaborator
-- **[Industrium](https://industrium.net)** (formerly Flaze SMP): modded Minecraft experience with infrastructure and company systems. GitHub organization [available here](https://github.com/IndustriumMC).
-- **[DeepSearch](https://github.com/BENZOOgataga/DeepSearch/)**: advanced Discord bot that indexes and searches messages by term with rich filters and options
-- **Lyra Bot** *(in development)*: RPG-themed Discord bot by me and LyraStudio, combining lore, progression, and text-based gameplay
+- **[Altitude Interactive](https://altitude-interactive.com)**: I'm the founder of Altitude Interactive, an indie dev team working on games, tools, websites, and more. GitHub organization [available here](https://github.com/Altitude-Interactive).
+- **[Pastanetwork](https://pastanetwork.com)**: former lead designer.
+- **[Industrium](https://industrium.net)**: modded Minecraft experience with infrastructure and company systems. GitHub organization [available here](https://github.com/IndustriumMC).
+- **[DeepSearch](https://github.com/BENZOOgataga/DeepSearch/)**: advanced Discord bot that indexes and searches messages by term with rich filters and options.
+- **Lyra Bot** *(in development)*: RPG-themed Discord bot by me and Altitude Interactive, combining lore, progression, and text-based gameplay.
 
 > ⚠️ Many of my projects are **infrastructure-focused** and may not show strong GitHub score metrics.  
 > Their repos are mainly here for documentation and sharing purposes.
@@ -174,7 +174,7 @@ These are my trophies. Don't question them. Just admire the colors.
 [![Rust](https://img.shields.io/badge/Rust-Survival-000000?style=flat-square&logo=rust&logoColor=white)]()
 [![Satisfactory](https://img.shields.io/badge/Satisfactory-FICSIT-yellow?style=flat-square&logo=nintendo-switch&logoColor=white)]()
 [![RPG Lover](https://img.shields.io/badge/RPG-Lover-red?style=flat-square&logo=googlegames&logoColor=white)]()
-[![LyraStudio](https://img.shields.io/badge/LyraStudio-Dev_Team-purple?style=flat-square)](https://github.com/LyraDevStudio)
+[![Altitude Interactive](https://img.shields.io/badge/AltitudeInteractive-Team-purple?style=flat-square)](https://github.com/Altitude-Interactive)
 
 #### 🎨 Design & Content
 [![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)](https://www.adobe.com/)
