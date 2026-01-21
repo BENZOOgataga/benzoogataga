@@ -1,8 +1,8 @@
 # 🏠 Terraton Homelab
 
-## Hybrid backend powering Industrium and LyraStudio
+## Hybrid backend powering Industrium and Altitude Interactive
 
-Terraton (**SRV-TERRATON**) began as a personal homelab focused on experimentation and learning. Over time, it evolved into a key part of the backend supporting **Industrium** and **LyraStudio**, while still serving as a flexible environment for development, staging, and internal tooling.
+Terraton (**SRV-TERRATON**) began as a personal homelab focused on experimentation and learning. Over time, it evolved into a key part of the backend supporting **Industrium** and **Altitude Interactive**, while still serving as a flexible environment for development, staging, and internal tooling.
 
 ---
 
@@ -31,7 +31,7 @@ Terraton acts as a **hybrid backbone** for both personal and project-oriented ne
 * Development and testing environment for internal tools
 * Staging platform for backend components
 * Secondary infrastructure for **Industrium** services
-* Hosting of lightweight workloads for **LyraStudio** (bots, web utilities, prototypes)
+* Hosting of lightweight workloads for **Altitude Interactive** (bots, web utilities, prototypes)
 * Reverse proxy, monitoring, and storage layer
 
 With the migration of production workloads to `SRV-CITADEL`, Terraton now prioritizes flexibility, modularity, and rapid iteration.
@@ -91,6 +91,6 @@ Both servers complement each other: Terraton for agility and testing, Citadel fo
 
 # ✍️ Final Notes
 
-This setup represents years of continuous improvements in infrastructure, game hosting, automation, and backend design. While no longer the primary production node, Terraton remains a reliable and versatile engine behind the experimentation and creativity powering Industrium and LyraStudio.
+This setup represents years of continuous improvements in infrastructure, game hosting, automation, and backend design. While no longer the primary production node, Terraton remains a reliable and versatile engine behind the experimentation and creativity powering Industrium and Altitude Interactive.
 
 For discussions or infra-related questions: [benzoogataga](https://guns.lol/benzoogataga) on Discord.

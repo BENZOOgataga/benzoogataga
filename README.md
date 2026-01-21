@@ -19,7 +19,6 @@ I'm a student at [EFREI](https://eng.efrei.fr/) (French School of General Digita
 ## 🛠️ Currently working on
 
 - **[Industrium](https://industrium.net)**: modded Minecraft experience with infrastructure and company systems. GitHub organization [available here](https://github.com/IndustriumMC).
-- **Lyra Bot** *(in development)*: RPG-themed Discord bot by me and Altitude Interactive, combining lore, progression, and text-based gameplay
 - **Server infrastructure upgrades**: improvements to monitoring stacks, DNS handling, and automation pipelines for both Minecraft and web projects.
 - **Internal tools**: CLI and web-based utilities for managing players, companies, plots, and stats in Industrium, designed to assist staff operations and support Discord bot integration.
 
@@ -67,7 +66,6 @@ I'm a student at [EFREI](https://eng.efrei.fr/) (French School of General Digita
 - **[Pastanetwork](https://pastanetwork.com)**: former lead designer.
 - **[Industrium](https://industrium.net)**: modded Minecraft experience with infrastructure and company systems. GitHub organization [available here](https://github.com/IndustriumMC).
 - **[DeepSearch](https://github.com/BENZOOgataga/DeepSearch/)**: advanced Discord bot that indexes and searches messages by term with rich filters and options.
-- **Lyra Bot** *(in development)*: RPG-themed Discord bot by me and Altitude Interactive, combining lore, progression, and text-based gameplay.
 
 > ⚠️ Many of my projects are **infrastructure-focused** and may not show strong GitHub score metrics.  
 > Their repos are mainly here for documentation and sharing purposes.
