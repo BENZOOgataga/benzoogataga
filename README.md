@@ -15,7 +15,8 @@ Designing production-ready servers, game clusters & self-hosted platforms
 ---
 
 ## 🛠️ Currently Working On
-- **[Industrium](https://industrium.net)** - Modded Minecraft with infrastructure & company systems
+- **[Industrium](https://industrium.net)** - Ambitious modded Minecraft server
+- **[FrameShift](https://github.com/BENZOOgataga/FrameShift/)** - Yet Another Schematics Manager for Minecraft Neoforge 1.21.1
 - **Server upgrades** - Monitoring stacks, DNS, automation pipelines
 - **Internal tools** - CLI & web utilities for player/company management
 
