@@ -47,8 +47,8 @@ I specialize in **Linux infrastructure design** and automation. From containeriz
 - **Status:** [status.benzoogataga.com](https://status.benzoogataga.com)
 
 <p align="center">
-  <img height=150 src="https://github-readme-stats.vercel.app/api?username=BENZOOgataga&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
-  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=BENZOOgataga&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"><br>
+  <img height=150 src="https://github-readme-stats.benzoogataga.com/api?username=BENZOOgataga&show_icons=true&theme=react&border_color=61dafb&hide_border=true">
+  <img height=150 src="https://github-readme-stats.benzoogataga.com/api/top-langs/?username=BENZOOgataga&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5"><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BENZOOgataga&theme=react-dark&bg_color=20232a&hide_border=true" width=688><br>
   <i>⚠️ GitHub stats don’t reflect my real expertise, I focus on infrastructure, systems, and bots, not commits or stars.</i>
 </p>
