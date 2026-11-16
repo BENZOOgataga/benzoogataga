@@ -28,6 +28,7 @@ Each hostname is **short, unambiguous, and descriptive** of its primary purpose.
 | Production Server | **SRV-CITADEL** | Production workloads, APIs, games | Pastanetwork T3 Datacenter |
 | Daily PC | WRK-AEGIS | Workstation, gaming, creative work | LAN (Home) |
 | Laptop | WRK-NOMAD | Portable work & dev machine | Variable |
+| MacBook Pro (M5) | Portable local AI & dev machine | Variable |
 | iPhone | PRS-LYNX | Main phone | N/A |
 | iPad | PRS-ATLAS | Productivity tablet | N/A |
 | AirPods Pro | PRS-ECHO | Portable audio | N/A |
