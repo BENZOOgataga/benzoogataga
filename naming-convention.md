@@ -9,7 +9,8 @@
 | Prefix | Category | Examples |
 |--------|----------|----------|
 | **PRS-** | Personal devices | Phones, tablets, wearables, audio |
-| **WRK-** | Workstations | PCs, laptops, development machines |
+| **WRK-** | Desktop workstations | Desktop PCs, fixed development machines |
+| **PC-** | Portable computers | MacBooks, Windows laptops, mobile workstations |
 | **SRV-** | Servers | Homelab nodes, production nodes, hosted machines |
 | **NET-** | Network equipment | Routers, switches, firewalls |
 
@@ -26,10 +27,10 @@ Each hostname is **short, unambiguous, and descriptive** of its primary purpose.
 | Main Router | NET-NEXUS | Gateway & main network | LAN (Home) |
 | Homelab Server | **SRV-TERRATON** | Development, staging, internal tools | LAN (Home) |
 | Production Server | **SRV-CITADEL** | Production workloads, APIs, games | Pastanetwork T3 Datacenter |
-| WoL Server (Rasp Pi 3 B+) | **SRV-ARGUS** | UPS-backed WoL access point to wake SRV-TERRATON and WRK-AEGIS | LAN (Home)
+| WoL Server (Rasp Pi 3 B+) | **SRV-ARGUS** | UPS-backed WoL access point to wake SRV-TERRATON and WRK-AEGIS | LAN (Home) |
 | Daily PC | WRK-AEGIS | Workstation, gaming, creative work | LAN (Home) |
-| Laptop | WRK-NOMAD | Portable work & dev machine | Variable |
-| MacBook Pro (M5) | WRK-HERMES | Portable local AI & dev machine | Variable |
+| Windows Laptop | PC-NOMAD | School, virtualization labs, portable gaming | Variable |
+| MacBook Pro (M5) | PC-HERMES | Local AI inference, development | Variable |
 | iPhone | PRS-LYNX | Main phone | N/A |
 | iPad | PRS-ATLAS | Productivity tablet | N/A |
 | AirPods Pro | PRS-ECHO | Portable audio | N/A |
