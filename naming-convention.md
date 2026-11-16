@@ -28,7 +28,7 @@ Each hostname is **short, unambiguous, and descriptive** of its primary purpose.
 | Homelab Server | **SRV-TERRATON** | Development, staging, internal tools | LAN (Home) |
 | Production Server | **SRV-CITADEL** | Production workloads, APIs, games | Pastanetwork T3 Datacenter |
 | WoL Server (Rasp Pi 3 B+) | **SRV-ARGUS** | UPS-backed WoL access point to wake SRV-TERRATON and WRK-GLACIER | LAN (Home) |
-| Daily PC | WRK-GLACIER | Workstation, gaming, creative work | LAN (Home) |
+| Desktop Workstation | WRK-GLACIER | Gaming, development, creative work | LAN (Home) |
 | Windows Laptop | PC-NOMAD | School, virtualization labs, portable gaming | Variable |
 | MacBook Pro (M5) | PC-HERMES | Local AI inference, development | Variable |
 | iPhone | PRS-LYNX | Main phone | N/A |
